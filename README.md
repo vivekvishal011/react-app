@@ -70,8 +70,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-
 # DOCUMENT FOR POC - React app Deployment through jenkins.
+
+
+## Create 2 EC2 severs.
+## One is for Jenkins and another is for the website.
+## Deploy React-based app in EC2 server.
+## Use Nginx as a web server to launch the website.
+## Create a Github repo and push that react code in that repo.
+## Create a Jenkins pipeline to deploy the code on the server.
 
 ## Step 1
 
